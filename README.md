@@ -71,3 +71,11 @@ contract BaseRoastWall {
         require(sent, "Failed to send Ether");
     }
 }
+
+
+Etherscan verification skipped: API key not provided.
+Please input the API key in Remix Settings - Connected Services OR Contract Verification Plugin Settings.
+[Blockscout] Verification Error: Address is not a smart-contract
+[Blockscout] Please open the "Contract Verification" plugin to retry.
+[Routescan] Contract not found on Routescan after 30s. Explorer indexing timed out.
+[Sourcify] Verification submitted. Awaiting confirmation...
